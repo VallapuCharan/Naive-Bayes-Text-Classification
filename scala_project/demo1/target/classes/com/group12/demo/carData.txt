@@ -1,0 +1,14 @@
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
+0, vhigh vhigh 2 2 small low  
+1, vhigh vhigh 2 2 small med  
